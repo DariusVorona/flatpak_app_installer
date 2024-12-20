@@ -32,7 +32,7 @@ The script targets the following applications, replacing their apt or snap versi
     Okular
     PCSX2
     RetroArch
-    Spectacle
+    Spectacle - removed 
     Steam
     VLC
     Yakuake
