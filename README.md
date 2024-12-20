@@ -1,6 +1,7 @@
 Flatpak App Installer v1.3
 
-Flatpak App Installer v1.3 is a Bash script designed to simplify and streamline the process of replacing applications installed via traditional package managers like apt or snap with their Flatpak equivalents. It ensures a clean and conflict-free application environment, particularly for systems like Kubuntu, where managing package ecosystems efficiently is crucial.
+Flatpak App Installer v1.3 is a Bash script designed to simplify and streamline the process of replacing applications installed via traditional package managers like apt or snap with their Flatpak equivalents. It ensures a clean and conflict-free application environment, particularly for systems like Kubuntu
+
 Key Features
 
     Automated Replacement:
@@ -11,7 +12,7 @@ Key Features
         Ensures that Flatpak is installed and the Flathub repository is added to the system if not already present.
 
     Retry Mechanism:
-        Automatically retries failed Flatpak installations, ensuring robust application management.
+        Automatically retries failed Flatpak installations
 
     Selective Installation:
         Supports the --install-only-missing flag, allowing users to skip Flatpak installations for applications already installed.
@@ -59,11 +60,6 @@ chmod +x flatpak_app_installer_v1.3.sh
 Optional Flag: Use --install-only-missing to skip re-installation of Flatpaks already present:
 
     ./flatpak_app_installer_v1.3.sh --install-only-missing
-
-Prerequisites
-
-    A Linux distribution with Bash installed (e.g., Kubuntu).
-    An internet connection to download Flatpak applications from Flathub.
 
 Contributions
 
