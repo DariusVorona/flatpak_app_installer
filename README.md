@@ -52,12 +52,6 @@ The script targets the following applications, replacing their apt or snap versi
     User Control:
         Optional flags provide flexibility for users to tailor the script’s behavior to their needs.
 
-Usage Instructions
-
-    Clone the Repository:
-
-git clone https://github.com/your-repository-name/flatpak-app-installer.git
-cd flatpak-app-installer
 
 Run the Script: Ensure the script is executable:
 
