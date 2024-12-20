@@ -24,14 +24,21 @@ Applications Managed
 
 The script targets the following applications, replacing their apt or snap versions with Flatpak versions:
 
+    Firefox
+    Grsync (apt version)
+    Gwenview
+    Kate (this might be removed)
+    Krita
+    Okular
+    PCSX2
+    RetroArch
+    Spectacle
+    Steam
+    VLC
     Yakuake
     qBittorrent
-    RetroArch
-    PCSX2
-    Firefox
-    (Add other applications as applicable from the full script)
-
-Benefits
+    
+    Benefits
 
     Consistency:
         Flatpak ensures a consistent and sandboxed application environment, reducing dependency conflicts.
